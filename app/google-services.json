@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "888863822467",
+    "firebase_url": "https://my-tasks-d9caf-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "my-tasks-d9caf",
+    "storage_bucket": "my-tasks-d9caf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888863822467:android:b4caf6719d5462146d41b6",
+        "android_client_info": {
+          "package_name": "com.example.mytasks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABDqYlO47HvkBoh7zZJvGI-HROJCMe6To"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

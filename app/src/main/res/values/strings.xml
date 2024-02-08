@@ -1,3 +1,21 @@
 <resources>
-    <string name="app_name">To-Do-App</string>
+    <string name="app_name">To Do List</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="click_to_register">Click to register</string>
+    <string name="register">Register</string>
+    <string name="click_to_login">Click to login</string>
+    <string name="logout">Logout</string>
+    <string name="Details">DETAILS</string>
+    <string name="Title">"Title : "</string>
+
+    <string-array name="category">
+        <item>Study</item>
+        <item>C++</item>
+        <item>Java</item>
+        <item>JavaScript</item>
+        <item>VisualBasic</item>
+    </string-array>
+
 </resources>
